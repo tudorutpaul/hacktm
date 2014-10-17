@@ -1,5 +1,11 @@
 <?php
 
+echo "commit";
+echo "commit";
+echo "commit";
+echo "commit";
+echo "commit";
+
 class DB
 {
 	var $link;
@@ -113,4 +119,5 @@ class DB
     }
     
 }
+
 ?>
